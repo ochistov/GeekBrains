@@ -43,3 +43,4 @@ if len(str(seconds)) < 2:
 else:
     seconds = str(seconds)
 print(f"{hours}:{minutes}:{seconds}")
+# не до конца понял, зачем ссылку именно на pull-request, почему не на репозиторий:)

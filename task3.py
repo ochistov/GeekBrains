@@ -19,3 +19,4 @@ Solution and display it on the screen
 '''
 
 print(f"Answer is {int(str(n)) + int(str(n) * 2) + int(str(n) * 3)}")
+# не до конца понял, зачем ссылку именно на pull-request, почему не на репозиторий:)

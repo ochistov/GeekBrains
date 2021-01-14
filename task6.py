@@ -23,3 +23,4 @@ while a < b:
     i += 1
     print(a)
 print(f"Last day is {i}")
+# не до конца понял, зачем ссылку именно на pull-request, почему не на репозиторий:)
