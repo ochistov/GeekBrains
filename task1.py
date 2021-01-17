@@ -26,3 +26,4 @@ g = str(input('Input third variable: '))
 h = str(input('Input last variable: '))
 
 print(f"Here are your variables: \ne = {e} \nf = {f} \ng = {g} \nh = {h}")
+# не до конца понял, зачем ссылку именно на pull-request, почему не на репозиторий:)

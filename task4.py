@@ -40,4 +40,5 @@ for i in range(len(numb)):
     if int(numb[i]) > max:
         max = int(numb[i])
 print(max)
-''' 
+'''
+# не до конца понял, зачем ссылку именно на pull-request, почему не на репозиторий:)

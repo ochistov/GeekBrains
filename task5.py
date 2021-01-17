@@ -35,3 +35,4 @@ if revenue > costs:
 else:
     profit_sign = False
     print(f"The company is unprofitable!")
+    # не до конца понял, зачем ссылку именно на pull-request, почему не на репозиторий:)
